@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinchaschaim
-- 👀 I’m interested in Kubernetes and CI/CD tools
+- 👀 I’m interested in Blockchain, Etherium, Tezos, Smart Contracts, Tokens, DApp, DeFi, Crypto, etc...
 - 🌱 I’m currently learning Kubernetes and a lot of things related to Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Drop me one email to pinchaschaim@hotmail.com
